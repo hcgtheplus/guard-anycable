@@ -1,0 +1,3 @@
+guard 'anycable' do
+  watch(%r{^channels/(.+)\.rb$})
+end
